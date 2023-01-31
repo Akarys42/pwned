@@ -1,1 +1,1 @@
-echo "You have been pwned!"
+@echo "You have been pwned!"
